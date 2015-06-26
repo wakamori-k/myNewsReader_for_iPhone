@@ -1,5 +1,12 @@
 Google News Search APIを用いたニュース検索アプリ
 
+SwiftでかかれたHTTPネットワークライブラリ，Alamofireを使用した．
+https://github.com/Alamofire/Alamofire
+
+Alamofireの導入は次のサイトが参考になった
+http://dev.classmethod.jp/references/swift-oss-alamofire-1/
+http://qiita.com/susieyy/items/bbad93e4bbf48ae69326
+
 
 参考文献：
 No.1スクール講師陣による世界一受けたいiPhoneアプリ開発の授業，桑村治良ら，株式会社技術評論社，2015
