@@ -3,10 +3,16 @@ Google News Search APIを用いたニュース検索アプリ
 SwiftでかかれたHTTPネットワークライブラリ，Alamofireを使用した．
 https://github.com/Alamofire/Alamofire
 
-Alamofireの導入は次のサイトが参考になった
-http://dev.classmethod.jp/references/swift-oss-alamofire-1/
-http://qiita.com/susieyy/items/bbad93e4bbf48ae69326
+
+
 
 
 参考文献：
-No.1スクール講師陣による世界一受けたいiPhoneアプリ開発の授業，桑村治良ら，株式会社技術評論社，2015
+アプリの作成方法からソースまでたくさん参考にした
+	No.1スクール講師陣による世界一受けたいiPhoneアプリ開発の授業，桑村治良ら，株式会社技術評論社，2015
+UILabelの使い方など	
+	[iOS8] SwiftでUILabel(ラベル)の高さを動的に可変して複数行表示させる，http://tech.eversense.co.jp/50，2015.6.26アクセス
+Alamofireの導入は次のサイトが参考になった（なぜか結構てこずった）
+	[Swift] HTTP通信OSS Alamofire 導入編，http://dev.classmethod.jp/references/swift-oss-alamofire-1/，2015.6.26アクセス
+	AFNetworkのSwift版 Alamofireを試してみた，http://qiita.com/susieyy/items/bbad93e4bbf48ae69326，2015.6.26アクセス
+	UILabelで複数行のテキストを表示，http://qiita.com/k_teluki/items/f86d1d4ff91cea2ca09e，2015.6.26アクセス
